@@ -1,6 +1,0 @@
-com\example\orderservice\OrderServiceApplication.class
-com\example\orderservice\controller\OrderController.class
-com\example\orderservice\producer\OrderProducer.class
-com\example\orderservice\service\OrderService.class
-com\example\orderservice\config\KafkaProducerConfig.class
-com\example\orderservice\model\Order.class

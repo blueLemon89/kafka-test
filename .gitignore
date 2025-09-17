@@ -1,0 +1,12 @@
+# IDE and editor folders
+.claude/
+.idea/
+
+# Maven installations and archives
+apache-maven*/
+maven*
+*.zip
+
+*/target/
+# or
+**/target/

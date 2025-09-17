@@ -1,6 +1,0 @@
-D:\Coding\Practice project\kafka-microservices\order-service\src\main\java\com\example\orderservice\controller\OrderController.java
-D:\Coding\Practice project\kafka-microservices\order-service\src\main\java\com\example\orderservice\model\Order.java
-D:\Coding\Practice project\kafka-microservices\order-service\src\main\java\com\example\orderservice\producer\OrderProducer.java
-D:\Coding\Practice project\kafka-microservices\order-service\src\main\java\com\example\orderservice\OrderServiceApplication.java
-D:\Coding\Practice project\kafka-microservices\order-service\src\main\java\com\example\orderservice\config\KafkaProducerConfig.java
-D:\Coding\Practice project\kafka-microservices\order-service\src\main\java\com\example\orderservice\service\OrderService.java
