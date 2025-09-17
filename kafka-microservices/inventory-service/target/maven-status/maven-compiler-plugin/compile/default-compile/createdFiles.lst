@@ -1,0 +1,6 @@
+com\example\inventoryservice\model\Order.class
+com\example\inventoryservice\service\InventoryService.class
+com\example\inventoryservice\consumer\OrderConsumer.class
+com\example\inventoryservice\InventoryServiceApplication.class
+com\example\inventoryservice\config\KafkaConsumerConfig.class
+com\example\inventoryservice\controller\InventoryController.class

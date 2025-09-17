@@ -1,0 +1,6 @@
+D:\Coding\Practice project\kafka-microservices\inventory-service\src\main\java\com\example\inventoryservice\InventoryServiceApplication.java
+D:\Coding\Practice project\kafka-microservices\inventory-service\src\main\java\com\example\inventoryservice\config\KafkaConsumerConfig.java
+D:\Coding\Practice project\kafka-microservices\inventory-service\src\main\java\com\example\inventoryservice\model\Order.java
+D:\Coding\Practice project\kafka-microservices\inventory-service\src\main\java\com\example\inventoryservice\consumer\OrderConsumer.java
+D:\Coding\Practice project\kafka-microservices\inventory-service\src\main\java\com\example\inventoryservice\controller\InventoryController.java
+D:\Coding\Practice project\kafka-microservices\inventory-service\src\main\java\com\example\inventoryservice\service\InventoryService.java

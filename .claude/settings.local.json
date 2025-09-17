@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "WebFetch(domain:docs.claude.com)",
+      "Bash(where mvn)",
+      "Bash(winget:*)",
+      "Bash(curl:*)",
+      "Bash(tar:*)",
+      "Bash(rm:*)",
+      "Bash(export PATH=\"$MAVEN_HOME/bin:$PATH\")",
+      "Bash(mvn:*)",
+      "Bash(docker-compose:*)",
+      "Bash(java:*)",
+      "Bash(export MAVEN_HOME=\"D:\\Coding\\Practice project\\apache-maven-3.9.9\")",
+      "Bash(netstat:*)",
+      "Bash(taskkill:*)",
+      "Bash(docker exec:*)",
+      "Bash(timeout:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
